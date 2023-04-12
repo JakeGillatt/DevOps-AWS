@@ -12,24 +12,31 @@ as well as monitering and feedback.
 
 # Benefits of DevOps
 
-- DevOps can bring alot of benefits to a business. It emphasises continuous delivery and deployment
-which allows new features and updates to be released more frequently.
+- Emphasises continuous delivery and deployment.
 
-- Practices such as automatic testing and continuous monitoring can help businesses find and fix issues before
-they can impact customers.
+- Automatic testing and continuous monitoring.
 
-- DevOps encourages collaboration and communication between teams which improves the overall efficiency of an organisation.
+- Collaboration and communication
+
+- Continuous integration & delivery
 
 # What is cloud computing and AWS?
 
 Cloud Computing allows users to access and use computing resources over the internet.
-These resources can include servers, data storage, databases, applications, computer hardware and others.
+These resources can include:
+
+- Servers
+- Data storage
+- Databases
+- Applications
+- Computer hardware
+
+
 
 # How does it fit into DevOps?
 
-Cloud computing is an essential part of DevOps because it enables teams to deploy and manage their applications and infrastructure more effectively.
-Cloud environments can be created so that applications can be built and tested on the same platforms and machines. This reduces issues when
-passing applications or software between people and teams who use different computers.
+- Enables teams to deploy and manage their applications and infrastructure more effectively.
+- Environments can be created so that applications can be built and tested on the same platforms and machines.
 
 # Benefits of cloud computing
 
@@ -56,5 +63,3 @@ Amazon Web Services is used by a wide range of large companies. Some of the nota
 - General Electric
 - Unilever
 - Pfizer
-
-These are just a few examples.
