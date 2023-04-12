@@ -1,4 +1,4 @@
-# what is DevOps?
+# What is DevOps?
 
 - DevOps is a practice of philosophies that aims to bridge the gap
 between software development and operations teams.
