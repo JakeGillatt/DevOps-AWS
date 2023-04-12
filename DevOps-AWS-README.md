@@ -48,3 +48,8 @@ These resources can include servers, data storage, databases, applications, comp
 Cloud computing is an essential part of DevOps because it enables teams to deploy and manage their applications and infrastructure more effectively.
 Cloud environments can be created so that applications can be built and tested on the same platforms and machines. This reduces issues when
 passing applications or software between people and teams who use different computers.
+
+# Using SSH Login with AWS
+
+After logging into AWS, take the .pem file containing the key and move it to the .ssh folder.
+Make sure any other copies of this file are deleted.
