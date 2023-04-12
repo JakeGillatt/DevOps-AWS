@@ -8,7 +8,7 @@ between software development and operations teams.
 The main goal of a DevOps engineer is to achieve faster more reliable software delivery.
 
 Devops focuses on automation, collaboration, continuous integration & delivery,
-as well as monitering and feedback
+as well as monitering and feedback.
 
 # Why DevOps?
 
@@ -42,6 +42,10 @@ These resources can include servers, data storage, databases, applications, comp
 - Access control for different users within your cloud service
 - High levels of reliability
 - Flexible due to being accessible from anywhere with internet connection
+
+# Who is using the cloud?
+
+
 
 # How does the Cloud fit into DevOps
 
