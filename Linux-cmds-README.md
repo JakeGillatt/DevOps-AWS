@@ -16,6 +16,6 @@
 - `mv 'file name' 'dir'` moves the file to the specified dir
 - `ll` displays the files permissions
 - `chmod 'code' 'file name'` changes the files permissions (use a chmod calculator to get the code)
-- `sudo` - gives admit permission to a command
+- `sudo` - gives admin permission to a command
 - `top` - lists all the current processes like a task manager
 - `history` - displays the previously entered commands
