@@ -30,11 +30,10 @@
 - `sudo apt install nginx` install nginx
 - `sudo apt update/upgrade -y` used to update/upgrade services. -y will automate responce "Yes"
 - `service nginx status` check the status of nginx service
-
+#
 script to automate update/upgrade, installation and enabling of nginx:
-sudo touch provision.sh - create a scipt file
-
-`sudo nano provision.sh` - open the file with nano
+#
+`sudo nano provision.sh` - create and open the file with nano
 
 use follwing to add to your script:
 
