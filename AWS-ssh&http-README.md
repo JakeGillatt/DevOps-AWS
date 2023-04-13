@@ -42,3 +42,23 @@ connect to the instance using its public DNS - Example: `ssh -i "tech221.pem" ub
 #
 - You can now 'Add rule' and Delete rules. Select Add rule to add a new rule, 
 choose the rule type you want and then under 'Source type' select 'My IP' and save the changes
+#
+# Installing and setting up nginx using a shell script
+#
+- In the git bash terminal, use `sudo nano provision.sh` to create the shell file and enter into the file editor
+#
+- Now we must enter the commands we need, inside this file.
+- `sudo apt update -y`
+- `sudo apt upgrade -y`
+- `sudo apt install nginx -y`
+- `sudo systemctl restart nginx`
+- `sudo systemctl enable nginx`
+#
+- Use CTRL + X to save, press 'Y' and hit enter
+#
+- Now use `ls` to check the file has been created
+#
+- Use `sudo chmod +x provision.sh` to give permissions for the file to be executed
+- Now use `sudo ./provision.sh` to run the script
+#
+- Nginx should now install. Reboot the Instance if neccisarry after installation has finished.
