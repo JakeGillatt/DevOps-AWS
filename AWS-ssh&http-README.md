@@ -1,4 +1,4 @@
-# Setting up a virtual environment in AWS
+# Setting up a virtual Linux environment in AWS
 #
 # Once you are logged into the AWS platform:
 #
