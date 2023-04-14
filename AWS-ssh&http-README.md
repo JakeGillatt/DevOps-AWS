@@ -48,6 +48,7 @@ choose the rule type you want and then under 'Source type' select 'My IP' and sa
 - In the git bash terminal, use `sudo nano provision.sh` to create the shell file and enter into the file editor
 #
 - Now we must enter the commands we need, inside this file.
+- #!/bin/bash
 - `sudo apt update -y`
 - `sudo apt upgrade -y`
 - `sudo apt install nginx -y`
