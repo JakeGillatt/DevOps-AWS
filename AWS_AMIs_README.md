@@ -19,7 +19,7 @@ They can also be used to create multiple copies of the same Instance.
 - Review the image options and select 'Create image'
 - The AMI will now take a minute to generate
 #
-# Testing & Re-launching an Instance from an AMI
+# Terminating & Re-launching an Instance from an AMI
 - Once the AMI status is 'Available':
 - Select your instance and from the 'Instance state' dropdown box, select 'Terminate instance'
 - Head back over to the 'Images -> AMIs' section and select your AMI from the list
